@@ -2,7 +2,7 @@
 
 **Global Risk Intelligence — In Full Focus**  
 
-Power your decision-making with **validated data, risk analytics, and hazard-specific intelligence** — all from one fully integrated platform.  
+Power your decision-making with **validated data, risk analytics, and hazard-specific intelligence** all from one fully integrated platform.  
 
 ---
 
@@ -15,7 +15,7 @@ Atlas Risk Intelligence (ARI) is a **data-driven technology company** specializi
 ---
 
 ## 🛠 Our Technology
-- **Backend:** Node.js, NestJS, microservices architecture  
+- **Backend:** Node.js, NestJS
 - **Databases & Data Pipelines:** MongoDB, SQL, data ingestion & analytics  
 - **Cloud & Infrastructure:** AWS, Docker, CI/CD pipelines, secure deployment  
 - **Monitoring & Visualization:** Grafana, metrics, and operational dashboards  
